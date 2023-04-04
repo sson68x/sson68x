@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Seungwoo Son, and I also go by Simon.
+- 👋 Hi, I’m Seungwoo, and I also go by Simon.
 - 👀 I’m interested in learning programming languages!
 - 🌱 I’m currently learning HTML, CSS, and JavaScript.
 - 💞️ I’m looking to collaborate on ...
